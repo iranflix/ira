@@ -1,1 +1,1 @@
-http://server-majazi-iran.info/api/
+http://dostman.info/api/
