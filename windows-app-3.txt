@@ -1,1 +1,1 @@
-http://server-windows-app.info/api/
+http://server-windows-app.info/
